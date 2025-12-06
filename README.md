@@ -1,6 +1,6 @@
-# Hi, I’m Rashmi 👋
+# Hi, I’m Rashmi 🧙‍♀️
 
-### Aspiring Data Analyst | SQL | Python | Power BI
+### Aspiring Data Wizard  | SQL | Python | Power BI 🪄
 
 I build data analysis projects focusing on data cleaning, exploratory analysis, and clear documentation.
 
