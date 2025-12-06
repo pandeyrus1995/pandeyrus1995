@@ -12,4 +12,4 @@ I build data analysis projects focusing on data cleaning, exploratory analysis, 
 - Easy Python Projects
 
 ## Power BI Projects
-- Coming soon
+- Coming soon!!
