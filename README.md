@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I’m Rashmi 👋
 
-<!--
-**pandeyrus1995/pandeyrus1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | SQL | Python | Power BI
 
-Here are some ideas to get you started:
+I build data analysis projects focusing on data cleaning, exploratory analysis, and clear documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## SQL / MySQL Projects
+- World Layoffs Analysis (MySQL)
+
+## Python Projects
+- Customer Churn Analysis
+- Easy Python Projects
+
+## Power BI Projects
+- Coming soon
