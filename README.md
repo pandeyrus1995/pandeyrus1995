@@ -7,6 +7,7 @@ I build data analysis projects focusing on data cleaning, exploratory analysis, 
 ## SQL / MySQL Projects
 - World Layoffs Analysis (MySQL)
 - Retail Sales Analysis (MySQL)
+- Warehouse Data Analysis (MySql)
 
 ## Python Projects
 - Customer Churn Analysis
