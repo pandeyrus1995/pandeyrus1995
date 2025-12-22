@@ -1,6 +1,6 @@
 # Hi, I’m Rashmi 👋
 
-### Aspiring Data Wizard 🧙‍♀️  | SQL | Python | Power BI 
+### Aspiring Data Wizard 🧙‍♀️  | SQL | Python | Tableau
 
 I build data analysis projects focusing on data cleaning, exploratory analysis, and clear documentation.
 
@@ -13,5 +13,5 @@ I build data analysis projects focusing on data cleaning, exploratory analysis, 
 - Customer Churn Analysis
 - Easy Python Projects
 
-## Power BI Projects
-- Coming soon
+## Tableau Projects
+- Coming soon !!
